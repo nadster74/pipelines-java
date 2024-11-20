@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/UoSDIT/Nads/_apis/build/status%2Fnadster74.pipelines-java?branchName=main)](https://dev.azure.com/UoSDIT/Nads/_build/latest?definitionId=406&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
