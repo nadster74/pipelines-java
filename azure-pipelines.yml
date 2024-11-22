@@ -17,7 +17,7 @@ strategy:
   maxParallel: 3
 
 pool:
-  vmImage: "windows-latest"
+  vmImage: $(imageName)
 
 steps:
 - task: Maven@3
